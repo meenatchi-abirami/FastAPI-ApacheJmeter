@@ -22,3 +22,5 @@ pymysql
 python-dotenv
 graypy
 mysql-connector-python
+aiomysql
+
